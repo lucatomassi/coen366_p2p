@@ -4,15 +4,15 @@
 
 The content of the application reside on two seperate folders as can be seen below.
 
-![Untitled](READ%20ME-%20Final%20Project%203490e401e54d49d69402fb9de9818812/Untitled.png)
+![image](https://user-images.githubusercontent.com/34385117/165834682-f11e16b5-86ad-4a6c-a2c3-3273aa6ef64b.png)
 
 Each folder can hold distinct files of any type, .pdf, .png, .txt, pptx as seen below.
 
-![Contents of /client folder](READ%20ME-%20Final%20Project%203490e401e54d49d69402fb9de9818812/Untitled%201.png)
+![image](https://user-images.githubusercontent.com/34385117/165834716-9f9cd2d5-0373-43d0-a51c-0b1146b34c26.png)
 
 Contents of /client folder
 
-![Contents of /server folder](READ%20ME-%20Final%20Project%203490e401e54d49d69402fb9de9818812/Untitled%202.png)
+![image](https://user-images.githubusercontent.com/34385117/165834735-1ce7b773-4318-4420-a70f-432d6e0dc66d.png)
 
 Contents of /server folder
 
