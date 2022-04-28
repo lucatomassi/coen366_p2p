@@ -66,3 +66,15 @@ Once both sides have been initialized, the Client side will be waiting for the u
 - **change** *oldfilename newfilename* : Renames an existant file to a new given name
 - **help** : Lists all available commands (listed above)
 - **bye** : Exits the Client/Server
+
+### Debug-Mode ( debug flag set to 1 )
+In the case that a user wants to debug the application, the debug flag parameter can be initially set to 1.
+
+Doing so will allow the Request Messages to look as follow:
+![image](https://user-images.githubusercontent.com/34385117/165835091-cebb0f57-56c0-4239-8f83-5c12a1a9079a.png)
+
+And the Response Messages will be as:
+![image](https://user-images.githubusercontent.com/34385117/165835147-e2db58b6-e401-485d-84e7-66e7a0952d11.png)
+
+
+
