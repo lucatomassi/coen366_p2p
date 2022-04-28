@@ -1,5 +1,9 @@
 # READ ME- Final Project
 
+Luca Tomassi
+
+for COEN366: Networking & Protocols
+
 ## Simple File Transfer Service
 
 The content of the application reside on two seperate folders as can be seen below.
